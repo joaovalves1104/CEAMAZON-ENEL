@@ -1,0 +1,60 @@
+Resumo
+Breve visão geral do tema e objetivo do estudo.
+Destaques dos principais resultados obtidos em relação às redes de distribuição, smart grids na Cidade de São Paulo.
+
+
+1. Introdução
+Contextualização das redes de distribuição de energia elétrica.
+Importância das smart grids e tecnologias disruptivas para o setor de energia.
+Justificativa para o estudo na Cidade de São Paulo.
+
+
+2. Redes de Distribuição e Smart Grids: Fundamentos Teóricos
+
+2.1 Conceitos Básicos de Redes de Distribuição
+Componentes das redes de distribuição.
+Desafios e necessidades de modernização.
+
+2.2 Smart Grids: Definição e Características
+Visão geral das smart grids.
+Benefícios da implementação de smart grids.
+
+
+3. Metodologia de Estudo
+
+3.1 Coleta de Dados
+Fontes de dados utilizadas para análise.
+Métodos de coleta e processamento de dados.
+
+3.2 Análise Geográfica e Espacial
+Utilização de mapas geográficos para visualização de resultados.
+Ferramentas e técnicas empregadas na análise espacial.
+
+
+4. Resultados: Cidade de São Paulo
+
+4.1 Perfil Energético da Cidade de São Paulo
+Demanda de energia elétrica.
+Fontes de geração predominantes.
+
+4.2 Perdas no Sistema de Distribuição
+Avaliação das perdas elétricas no sistema de distribuição da cidade.
+Comparação com índices padrão do setor.
+
+4.3 Visualização Geográfica dos Resultados
+Mapas geográficos demonstrando a distribuição das perdas e consumo de energia
+
+
+5. Discussão
+Interpretação dos resultados obtidos.
+Implicações para a melhoria das redes de distribuição e adoção de smart grids.
+Potencial de replicação em outras cidades ou regiões.
+
+
+6. Conclusão
+Recapitulação dos principais achados.
+Considerações finais sobre o estudo e suas contribuições.
+
+
+Referências
+Lista de fontes utilizadas no estudo.
