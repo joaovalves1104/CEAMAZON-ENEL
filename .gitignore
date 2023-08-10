@@ -1,3 +1,5 @@
 BDGD_SP
 *.csv
 *.dbf
+*.geojson
+*.svg
